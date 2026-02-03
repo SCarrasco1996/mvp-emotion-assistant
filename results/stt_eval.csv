@@ -1,0 +1,21 @@
+﻿file,transcript,ref_text,wer,cer,latency_s
+data\eval_audio\001_alegria_01.wav,Hoy me siento con energía y ganas de hacer cosas.,Hoy me siento con energía y ganas de hacer cosas.,0.0,0.0,0.4560397999994166
+data\eval_audio\002_alegria_02.wav,Me ha salido bien el día y estoy contento con el resultado.,Me ha salido bien el día y estoy contento con el resultado.,0.0,0.0,0.3339650999987498
+data\eval_audio\003_alegria_03.wav,Estoy orgulloso de lo que he conseguido esta semana.,Estoy orgulloso de lo que he conseguido esta semana.,0.0,0.0,0.3354557999991812
+data\eval_audio\004_alegria_04.wav,Me apetece celebrar algo sencillo y disfrutar del momento.,Me apetece celebrar algo sencillo y disfrutar del momento.,0.0,0.0,0.3243846000004851
+data\eval_audio\005_ira_01.wav,Esto me ha molestado y necesito calmarme antes de responder.,Esto me ha molestado y necesito calmarme antes de responder.,0.0,0.0,0.3565889999990759
+data\eval_audio\006_ira_02.wav,"Estoy enfadado, pero quiero hablarlo con respeto.","Estoy enfadado, pero quiero hablarlo con respeto.",0.0,0.0,0.3022004000013112
+data\eval_audio\007_ira_03.wav,Siento frustración porque las cosas no han salido como esperaba.,Siento frustración porque las cosas no han salido como esperaba.,0.0,0.0,0.32339520000095945
+data\eval_audio\008_ira_04.wav,Necesito un minuto para respirar y ordenar mis ideas.,Necesito un minuto para respirar y ordenar mis ideas.,0.0,0.0,0.31558959999892977
+data\eval_audio\009_tristeza_01.wav,Hoy me siento desanimado. Me cuesta concentrarme.,Hoy me siento desanimado y me cuesta concentrarme.,0.375,0.06,0.31717390000267187
+data\eval_audio\010_tristeza_02.wav,Estoy triste. Me vendría bien parar un momento.,Estoy triste y me vendría bien parar un momento.,0.3333333333333333,0.0625,0.2930370000030962
+data\eval_audio\011_tristeza_03.wav,"Me noto sin fuerzas, pero quiero cuidar de mí.","Me noto sin fuerzas, pero quiero cuidar de mí.",0.0,0.0,0.322144699999626
+data\eval_audio\012_tristeza_04.wav,Tengo un día difícil y necesito ir paso a paso.,Tengo un día difícil y necesito ir paso a paso.,0.0,0.0,0.3120827000020654
+data\eval_audio\013_miedo_01.wav,"Me siento nervioso por lo que pueda pasar, pero puedo manejarlo.","Me siento nervioso por lo que puede pasar, pero puedo manejarlo.",0.09090909090909091,0.015625,0.3373333999988972
+data\eval_audio\014_miedo_02.wav,Tengo miedo a equivocarme y quiero tranquilizarme.,Tengo miedo a equivocarme y quiero tranquilizarme.,0.0,0.0,0.30493339999884483
+data\eval_audio\015_miedo_03.wav,Estoy inquieto y necesito respirar más despacio.,Estoy inquieto y necesito respirar más despacio.,0.0,0.0,0.2978456999990158
+data\eval_audio\016_miedo_04.wav,Siento tensión y quiero reducirla con calma.,Siento tensión y quiero reducirla con calma.,0.0,0.0,0.2935475000012957
+data\eval_audio\017_neutro_01.wav,Ahora mismo estoy describiendo cómo me encuentro de forma objetiva.,Ahora mismo estoy describiendo cómo me encuentro de forma objetiva.,0.0,0.0,0.40437040000324487
+data\eval_audio\018_neutro_02.wav,Voy a explicar lo ocurrido sin añadir interpretaciones.,Voy a explicar lo ocurrido sin añadir interpretaciones.,0.0,0.0,0.306135800001357
+data\eval_audio\019_neutro_03.wav,Estoy revisando mis tareas y priorizando lo más importante.,Estoy revisando mis tareas y priorizando lo más importante.,0.0,0.0,0.31227170000056503
+data\eval_audio\020_neutro_04.wav,En este momento solo quiero organizar mis próximos pasos.,En este momento solo quiero organizar mis próximos pasos.,0.0,0.0,0.3130672000006598

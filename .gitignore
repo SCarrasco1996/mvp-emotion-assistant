@@ -1,0 +1,26 @@
+# Python / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Data
+data/audio/
+data/eval_audio/
+*.wav
+
+# Model weights
+results/**/model/model.safetensors
+results/**/model/*.bin
+
+# Optional: caches / logs
+*.log

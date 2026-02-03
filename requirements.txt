@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+ctranslate2
+faster-whisper
+gradio
+librosa
+numpy
+pandas
+pyttsx3
+requests
+scikit-learn
+soundfile
+transformers
+matplotlib
+jiwer
