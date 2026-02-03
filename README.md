@@ -35,7 +35,7 @@ Configuración “activa” con la que se reportan los resultados principales en
 ### No incluye
 - Entorno virtual: `.venv/`
 - Audios del dataset: `data/audio/` y `data/eval_audio/`
-- Pesos grandes de los modelos: `model.safetensors`
+- Pesos grandes del modelo SER (no se versionan en Git): `model.safetensors` (disponible en Releases, ver sección “Modelo SER (pesos)”).
 
 ---
 
@@ -62,7 +62,7 @@ mvp-emotion-assistant/
   model/
     config.json
     preprocessor_config.json
-    (no incluido) model.safetensors
+    (no incluido en Git) model.safetensors (adjunto en la Release v1.0-tfe)
 
   results/
     stt_eval.csv
@@ -161,6 +161,15 @@ La carpeta `model/` debe contener:
 - `config.json`
 - `preprocessor_config.json`
 - `model.safetensors`
+
+Por tamaño, **`model.safetensors` no se incluye en el historial Git del repositorio**.  
+Los pesos del modelo SER están disponibles como **archivo adjunto** en la sección **Releases** del repositorio.
+
+**Descarga e instalación:**
+1) Descarga `model.safetensors` desde la Release **`v1.0-tfe`**:  
+   https://github.com/SCarrasco1996/mvp-emotion-assistant/releases/tag/v1.0-tfe
+2) Copia el archivo descargado a la ruta:
+   `model/`
 
 ---
 
