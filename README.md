@@ -62,7 +62,7 @@ mvp-emotion-assistant/
   model/
     config.json
     preprocessor_config.json
-    model.safetensors (No incluido por tamaño)
+    (no incluido) model.safetensors
 
   results/
     stt_eval.csv
