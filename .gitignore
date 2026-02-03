@@ -13,11 +13,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Data
-data/audio/
-data/eval_audio/
-*.wav
-
 # Model weights
 results/**/model/model.safetensors
 results/**/model/*.bin
