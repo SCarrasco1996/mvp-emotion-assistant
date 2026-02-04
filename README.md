@@ -30,11 +30,12 @@ Configuración “activa” con la que se reportan los resultados principales en
 - Código fuente completo del MVP (`src/`)
 - Ficheros de dependencias (`requirements.txt`)
 - Scripts de preparación y evaluación
+- Audios propios para evaluación: `data/eval_audio/`
 - Resultados ligeros (`results/*.csv`, `results/*_summary.txt`, matrices/figuras si aplican)
 
 ### No incluye
 - Entorno virtual: `.venv/`
-- Audios del dataset: `data/audio/` y `data/eval_audio/`
+- Audios del dataset MESD: `data/audio/`
 - Pesos grandes del modelo SER (no se versionan en Git): `model.safetensors` (disponible en Releases, ver sección “Modelo SER (pesos)”).
 
 ---
@@ -57,7 +58,7 @@ mvp-emotion-assistant/
     metadata.csv
     eval.csv
     (no incluido) audio/
-    (no incluido) eval_audio/
+    eval_audio/ (audios propios para evaluación interna)
 
   model/
     config.json
