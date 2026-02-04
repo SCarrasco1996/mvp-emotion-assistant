@@ -63,7 +63,7 @@ mvp-emotion-assistant/
   model/
     config.json
     preprocessor_config.json
-    (no incluido en Git) model.safetensors (adjunto en la Release v1.0-tfe)
+    (no incluido en Git) model.safetensors (adjunto en la Release v1.1-tfe)
 
   results/
     stt_eval.csv
@@ -167,8 +167,8 @@ Por tamaño, **`model.safetensors` no se incluye en el historial Git del reposit
 Los pesos del modelo SER están disponibles como **archivo adjunto** en la sección **Releases** del repositorio.
 
 **Descarga e instalación:**
-1) Descarga `model.safetensors` desde la Release **`v1.0-tfe`**:  
-   https://github.com/SCarrasco1996/mvp-emotion-assistant/releases/tag/v1.0-tfe
+1) Descarga `model.safetensors` desde la Release **`v1.1-tfe`**:  
+   https://github.com/SCarrasco1996/mvp-emotion-assistant/releases/tag/v1.1-tfe
 2) Copia el archivo descargado a la ruta:
    `model/`
 
